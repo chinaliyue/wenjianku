@@ -1,9 +1,9 @@
-www.gezila.com:443 
-www.digitalocean.com:443 
-www.whatismyip.com:443 
-fbi.gov:443 
-www.gov.se:443 
-auth0.openai.com:443 
+www.gezila.com:443
+www.digitalocean.com:443
+www.whatismyip.com:443
+fbi.gov:443
+www.gov.se:443
+auth0.openai.com:443
 www.hdmoli.com:443 
 www.udemy.com:443 
 a1.nttkk.com:443 
