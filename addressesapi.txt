@@ -103,3 +103,15 @@ sg.moyue.eu.org:443
 cdn.smnet.asia:443 
 us.i-gcloud.com:443 
 www.i-gcloud.com:443 
+1dns.cc:443 
+testhk.migoo.eu.org:443 
+decc.66666654.xyz:443 
+yh6.dtku41.xyz:443 
+nlsdwsz.66666654.xyz:443 
+www.dafuhao.com:443 
+aiva.yudan.link:443 
+www.whoer.net:443 
+www.xworldadmin.com:443 
+www.ddwhm.com:443 
+proxyip.kr.fxxk.dedyn.io:443 
+jp02.nttkk.com:443 
