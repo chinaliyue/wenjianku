@@ -1,3 +1,9 @@
+cdn.smnet.asia:443 
+us.moyue.eu.org:443 
+sg.moyue.eu.org:443 
+cdn.yiso.fun:443 
+chat.hashi.sbs:443 
+www.smnet.asia:443 
 www.gezila.com:443#官方优选域名
 www.digitalocean.com:443#官方优选域名
 www.whatismyip.com:443#官方优选域名
