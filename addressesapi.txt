@@ -1,5 +1,6 @@
 sg.moyue.eu.org:443
 www.smnet.asia:443
+www.azheds.com:443
 www.hyk2024.cc:443
 des.plus:443
 www.vrzy.cc:443
