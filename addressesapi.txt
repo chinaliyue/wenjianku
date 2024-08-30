@@ -1,9 +1,10 @@
+sg.moyue.eu.org:443
+www.smnet.asia:443
 www.hyk2024.cc:443
 des.plus:443
 www.vrzy.cc:443
 cdn.cf.clun.top:443
 didamh.com:443
-www.smnet.asia:443
 www.hanyingku.cc:443
 www.des.plus:443
 www.ase888.com:443
